@@ -1,4 +1,4 @@
-#ArmorSim
+# ArmorSim
 
 This sim will provide a milisecond by milisecond calculation of how fast a bullet is moving through a piece of armor. 
 
